@@ -30,12 +30,12 @@ Thomas Kirnbauer:
  
  Andrew Doto:
  - Find optimal number of clusters
-  - calculate inertia
-  - plot inertia
-  - determine optimal number of clusters
+   - calculate inertia
+   - plot inertia
+   - determine optimal number of clusters
  
  - Revise data variation
-  - apply and plot standard deviation functions
+   - apply and plot standard deviation functions
  
  Greg Platt:
  - Apply Normalizer and Standard Scaler to data
