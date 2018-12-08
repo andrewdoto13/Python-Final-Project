@@ -41,3 +41,23 @@ Thomas Kirnbauer:
  - Apply Normalizer and Standard Scaler to data
  - find and print updated centroids based on above methods
  - update readme file
+ 
+ ## Phase 3
+ 
+ Thomas Kirnbauer:
+ - Update Clusters to run 500 times with initial centroids of 20
+ - run Kmeans
+ - save results
+ - input data into dataframe
+ - update data to reflect same values as CLASS (2 & 4) vs (0 & 1)
+ - print first 15 rows
+ 
+ Andrew Doto
+ - Create error rate function
+  - calculate error rate on benign, malignant, and total classifications
+ - call function and pass correct arguments
+ 
+ Greg Platt
+ - Write Project Summary
+ - update readme
+ 
